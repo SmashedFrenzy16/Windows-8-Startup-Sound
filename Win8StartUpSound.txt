@@ -1,0 +1,20 @@
+# Welcome to Sonic Pi
+
+play 76
+
+play 76
+
+play 76
+
+sleep 0.4
+
+play 62
+
+sleep 0.25
+
+play 81
+
+play 81
+
+play 81
+
